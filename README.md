@@ -52,6 +52,8 @@
 
 - [Vision Based Pick & Place Workflow of Phantom X Pincher Arm](https://github.com/AsgharAZ/RoboticsSpring2024) - Investigation into vision-based pick-and-place system using Phantom X Pincher arm and MATLAB.
 
+- [Find Cheapest Flight Application](https://github.com/samiyaalizaidi/Find-Cheapest-Flight) - A simple application to find the cheapest available flights from the dataset given.
+
 ----
 
 ## 📈 My Github Stats
