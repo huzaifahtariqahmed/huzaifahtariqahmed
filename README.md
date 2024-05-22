@@ -42,7 +42,21 @@
 - 📝 Researcher: Currently conducting research in microchip design, focusing on innovative and efficient design methodologies.
 - 📡 Tech Enthusiast: Interested in microchip design, cloud computing, cybersecurity, game design & embedded systems.
 - 📌 Projects and Collaborations: Actively involved in various projects and collaborations that span across my areas of interest.
-- 📸 Fun Fact: I also do Photography and am very passionate about Filmmaking. 
+- 📸 Fun Fact: I also do Photography and am very passionate about Filmmaking.
+
+----
+
+# Projects I Contributed To
+
+## Repository Name
+- **Link:** [Repository Link](https://github.com/owner/repository)
+- **Description:** Brief description of the repository.
+- **Contribution:** Describe your contributions to the project.
+
+## Another Repository Name
+- **Link:** [Repository Link](https://github.com/owner/another-repository)
+- **Description:** Brief description of the repository.
+- **Contribution:** Describe your contributions to the project.
 
 ----
 
