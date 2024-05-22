@@ -49,8 +49,8 @@
 # Projects I Contributed To
 
 ## Digital Equalizer
-- **Link:** [Repository Link](https://github.com/owner/repository)
-- **Description:** Brief description of the repository.
+- **Link:** [Repository Link](https://github.com/samiyaalizaidi/Equalizer)
+- **Description:** Fixed Point FPGA-based Hardware Implementation of a 32-tap Low Pass FIR Filter for Audio Applications
 
 ## Vision Based Pick & Place Workflow of Phantom X Pincher Arm
 - **Link:** [Repository Link](https://github.com/owner/another-repository)
