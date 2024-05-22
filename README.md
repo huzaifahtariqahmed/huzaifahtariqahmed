@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat&logo=adobe">
 </a>  
 
-<a href="https://www.linkedin.com/in/samiya-ali-zaidi](https://www.linkedin.com/in/huzaifah-tariq-ahmed/">
+<a href="https://www.linkedin.com/in/huzaifah-tariq-ahmed/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
 
