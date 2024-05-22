@@ -46,7 +46,7 @@
 
 ----
 
-## Projects I Contributed To
+## Notable Contributions
 
 - [Audio Equalizer Using FIR Filters](https://github.com/samiyaalizaidi/Equalizer) - Fixed Point FPGA-based Hardware Implementation of a 32-tap Low Pass FIR Filter for Audio Applications
 
