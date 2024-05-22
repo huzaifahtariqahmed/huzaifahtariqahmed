@@ -46,19 +46,17 @@
 
 ----
 
-# Projects I Contributed To
+## Projects I Contributed To
 
-## Audio Equalizer Using FIR Filters
-- [Repository Link](https://github.com/samiyaalizaidi/Equalizer)
+- [Audio Equalizer Using FIR Filters](https://github.com/samiyaalizaidi/Equalizer)
 - Fixed Point FPGA-based Hardware Implementation of a 32-tap Low Pass FIR Filter for Audio Applications
 
-## Vision Based Pick & Place Workflow of Phantom X Pincher Arm
-- [Repository Link](https://github.com/AsgharAZ/RoboticsSpring2024)
+- [Vision Based Pick & Place Workflow of Phantom X Pincher Arm](https://github.com/AsgharAZ/RoboticsSpring2024)
 - Investigation into vision-based pick-and-place system using Phantom X Pincher arm and MATLAB.
 
 ----
 
-# 📈 My Github Stats
+## 📈 My Github Stats
 <br>
 
 
