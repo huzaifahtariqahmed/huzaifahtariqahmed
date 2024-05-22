@@ -54,6 +54,8 @@
 
 - [Find Cheapest Flight Application](https://github.com/samiyaalizaidi/Find-Cheapest-Flight) - A simple application to find the cheapest available flights from the dataset given.
 
+- [Snake Game](https://github.com/syedhammadrazi/SnakeGame) - A Game inspired from the classic Snake Xenzia Game, developed using SDL Library
+
 ----
 
 ## 📈 My Github Stats
