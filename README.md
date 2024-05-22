@@ -48,15 +48,13 @@
 
 # Projects I Contributed To
 
-## Repository Name
+## Digital Equalizer
 - **Link:** [Repository Link](https://github.com/owner/repository)
 - **Description:** Brief description of the repository.
-- **Contribution:** Describe your contributions to the project.
 
-## Another Repository Name
+## Vision Based Pick & Place Workflow of Phantom X Pincher Arm
 - **Link:** [Repository Link](https://github.com/owner/another-repository)
 - **Description:** Brief description of the repository.
-- **Contribution:** Describe your contributions to the project.
 
 ----
 
