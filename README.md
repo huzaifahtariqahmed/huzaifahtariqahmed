@@ -39,8 +39,8 @@
 
 </p>
 
-- 📝 Researcher: Currently conducting research in microchip design, focusing on innovative and efficient design methodologies.
-- 📡 Tech Enthusiast: Interested in microchip design, cloud computing, cybersecurity, game design & embedded systems.
+- 📝 Researcher: Currently conducting research in microchip design, focusing on innovative and efficient design methodologies. 
+- 📡 Tech Enthusiast: Interested in microchip design, deep learning, cloud computing, cybersecurity, game design & embedded systems.
 - 📌 Projects and Collaborations: Actively involved in various projects and collaborations that span across my areas of interest.
 - 📸 Fun Fact: I also do Photography and am very passionate about Filmmaking.
 
