@@ -56,6 +56,8 @@
 
 - [Snake Game](https://github.com/syedhammadrazi/SnakeGame) - A Game inspired from the classic Snake Xenzia Game, developed using SDL Library
 
+- [FinTrack](https://github.com/samiyaalizaidi/FinTrack) - A database-powered accounting system for efficient tracking of financial transactions and balances.
+
 ----
 
 ## 📈 My Github Stats
