@@ -5,7 +5,7 @@
 <br/>
 
 <!-- badges -->
-<a href="https://drive.google.com/file/d/1u8zkUT-YnGHGB9YQ0MVbvzW-3DE9uL3I/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1ocNWAYCN7b49ofxXIR4H8-_cn4dRYmeZ/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat&logo=adobe">
 </a>  
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
 
-<a href="mailto:huzihunter2782@yahoo.com"  target="_blank">
+<a href="mailto:huzaifahtariqahmed2782@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
 </a>
 
