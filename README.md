@@ -21,7 +21,7 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> 
 
-<a href="https://orcid.org/0009-0008-1907-1542">
+<a href="https://orcid.org/0009-0001-3815-2136">
     <img src="https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white">
 </a>
 
