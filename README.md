@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://scholar.google.com/citations?hl=en&user=0ugruG4AAAAJ&view_op=list_works&authuser=1" target="_blank">
+<a href="https://scholar.google.com/citations?user=Y-osPp4AAAAJ&hl=en">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> 
 
