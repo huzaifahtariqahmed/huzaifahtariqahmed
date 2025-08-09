@@ -45,13 +45,13 @@
 
 ## 🚀 Featured Projects
 
-### 1️⃣ [Voight-Kampff: Generative AI Authorship Detection](https://github.com/huzaifahtariqahmed/voight-kampff-ai-authorship)
+### 1️⃣ [Voight-Kampff: Generative AI Authorship Detection](https://github.com/huzaifahtariqahmed/Voight-Kampff-Nexus-Interrogators)
 *Published at PAN Labs CLEF 2025*  
 - Developed **LLM-based models** to detect AI-generated text from human writing.  
 - Leveraged **transformer architectures** & statistical stylometry features.  
 - Achieved **state-of-the-art performance** on benchmark authorship datasets.
 
-### 2️⃣ [DeepFake Detection using RegNet Transfer Learning](https://github.com/huzaifahtariqahmed/deepfake-detection)
+### 2️⃣ [DeepFake Detection using RegNet Transfer Learning](https://github.com/huzaifahtariqahmed/DeepFake-Detection-ReactNet-Transfer-Learning-Model)
 *Computer Vision Research Project*  
 - Built a deepfake detection system leveraging **RegNet** as a transfer learning backbone.  
 - Preprocessed large-scale datasets with **face detection & augmentation**.  
